@@ -1,4 +1,4 @@
-# Logística: EStatísticas do Tempo de Entrega
+# Logística: Estatísticas do Tempo de Entrega
 
 
 ## Sobre o Projeto
