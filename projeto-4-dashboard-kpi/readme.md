@@ -1,4 +1,4 @@
-# Strategic Sales Dashboard: KPI Monitoring
+# Dashboard Estratégico para Vendas: monitoramento de KPI's
 
 
 ## Sobre o Projeto
