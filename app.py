@@ -3,7 +3,7 @@ import streamlit as st
 # Configuração da Página Principal
 st.set_page_config(layout="wide", page_title="Portfólio de Data Science - Danilo A. F.")
 
-st.sidebar.markdown("### Navegação do Portfólio")
+st.sidebar.markdown("### Navegação do Portfólio 👇")
 
 # Definição das Páginas (Ajustar o caminho "projeto-X/nome_do_arquivo.py")
 # O primeiro argumento é o caminho do arquivo, o segundo é o título que aparece no menu
