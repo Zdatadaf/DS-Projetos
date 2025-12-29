@@ -1,4 +1,4 @@
-# 🏢 Sistema de Predição de CHURN
+# Sistema de Predição de CHURN
 
 
 ## Sobre o Projeto
