@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Configuração da Página
-st.set_page_config(layout='wide', page_title="Olist Logistics: Dados Reais")
+st.set_page_config(layout='wide', page_title="Logística: Estatísticas do Tempo de Entrega")
 
 # --- 1. Conexão com os Dados Reais ---
 @st.cache_data
