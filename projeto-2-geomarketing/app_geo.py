@@ -87,7 +87,7 @@ def pagina_dados_brutos_v2():
 
 # Página 2: Dashboard Mapa
 def pagina_dashboard_v2():
-    st.title('Região Metropolitana de Belém e Ananindeua')
+    st.title('Inteligência de Varejo: Geomarketing na Região Metropolitana de Belém e Ananindeua')
     st.markdown("Análise de **Densidade de Consumo** na Grande Belém.")
     
     df_pop, df_lojas = gerar_dados_belem_ananindeua_v2()
