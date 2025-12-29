@@ -1,4 +1,4 @@
-# Corporate Audit AI: Financial Anomaly Detection
+# Auditoria Financeira e Detecção de Anomalia com AI:
 
 ## Sobre o Projeto
 Este projeto é uma ferramenta de **Auditoria Automatizada** desenvolvida para detectar fraudes, erros operacionais e gastos atípicos em bases de dados financeiras.
