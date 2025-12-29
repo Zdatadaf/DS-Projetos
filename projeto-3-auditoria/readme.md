@@ -1,4 +1,4 @@
-# Auditoria Financeira e Detecção de Anomalia com AI:
+# Auditoria Financeira e Detecção de Anomalia com IA:
 
 ## Sobre o Projeto
 Este projeto é uma ferramenta de **Auditoria Automatizada** desenvolvida para detectar fraudes, erros operacionais e gastos atípicos em bases de dados financeiras.
