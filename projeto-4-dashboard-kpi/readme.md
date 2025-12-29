@@ -30,8 +30,4 @@ A estrutura hierárquica e os indicadores de performance deste dashboard são di
 * **Visualização:** Plotly Express
 * **Manipulação de Dados:** Pandas / NumPy
 
-## Como Rodar o Projeto
 
-1. Clone este repositório:
-```bash
-git clone [https://github.com/SEU-USUARIO/sales-kpi-dashboard.git](https://github.com/SEU-USUARIO/sales-kpi-dashboard.git)
