@@ -11,7 +11,7 @@ import numpy as np
 import plotly.express as px
 #-----------------------------------------------------
 # 1. Título do App
-st.title(" Geomarketing")
+st.title("🗺️ Geomarketing")
 exibir_readme("projeto-2-geomarketing/readme.md") 
 st.divider() # Uma linha para separar a explicação do dashboard real
 #-----------------------------------------------------
