@@ -27,8 +27,3 @@ O domínio de estatística descritiva e análise de distribuição é vital para
 * **Visualização:** Plotly Express / Graph Objects
 * **Estatística:** Pandas / NumPy
 
-## Como Rodar o Projeto
-
-1. Clone este repositório:
-```bash
-git clone [https://github.com/SEU-USUARIO/logistics-analytics.git](https://github.com/SEU-USUARIO/logistics-analytics.git)
