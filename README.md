@@ -2,9 +2,6 @@
 
 Repositório central de projetos focados em **soluções de negócio** e **tomada de decisão estratégica**. Aqui reúno aplicações práticas de Machine Learning, Análise Estatística e Visualização de Dados.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
-
 ---
 
 ## Índice de Projetos
