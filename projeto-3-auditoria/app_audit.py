@@ -55,7 +55,7 @@ def detectar_anomalias(df, contaminacao):
     return df
 
 # --- 3. INTERFACE STREAMLIT ---
-st.title("Auditoria Financeira e Detecção de Anomalia com AI")
+st.title("Auditoria Financeira e Detecção de Anomalia com IA    ")
 st.markdown("""
 Sistema de auditoria contínua utilizando **Machine Learning Não-Supervisionado (Isolation Forest)** para identificar gastos corporativos desviantes do padrão (Outliers).
 """)
