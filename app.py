@@ -3,21 +3,22 @@ import streamlit as st
 # 1. Configuração inicial
 st.set_page_config(layout="wide", page_title="Portfólio de Data Science - Danilo A. F.")
 
-# 2. CABEÇALHO NO TOPO DA PÁGINA (Aparecerá acima de todos os projetos)
-col1, col2 = st.columns([2, 1])
+# 2. CABEÇALHO COM TAMANHO AJUSTADO (Mais discreto)
+col1, col2 = st.columns([3, 1])
 
 with col1:
-    st.title("Danilo Azevedo Figueiredo")
-    st.markdown("### Cientista de Dados")
-    st.caption("Especialista em Engenharia de Automação e MBA em Data Science & Analytics")
+    # Usando markdown com h2 para o nome e h4 para o cargo (fica menor que o title)
+    st.markdown("## Danilo Azevedo Figueiredo")
+    st.markdown("#### Cientista de Dados")
+    st.caption("Engenheiro de Automação | MBA em Data Science & Analytics")
 
 with col2:
-    # Alinhando os botões à direita para ficar elegante
-    st.write("") # Espaçador para alinhar verticalmente
+    # Alinhamento dos botões
+    st.write("") # Pequeno respiro
     st.markdown(f"""
         <div style="text-align: right;">
-            <a href="https://www.linkedin.com/in/danilo-a-fig" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;"></a>
-            <a href="https://github.com/Zolinad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+            <a href="https://www.linkedin.com/in/danilo-a-fig" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px; height: 25px;"></a>
+            <a href="https://github.com/Zolinad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="height: 25px;"></a>
         </div>
     """, unsafe_allow_html=True)
 
@@ -32,5 +33,5 @@ pg = st.navigation([
     st.Page("projeto-5-logistica/app_logist.py", title="5. Logística Real", icon="📦"),
 ])
 
-# 4. EXECUTAR O PROJETO ESCOLHIDO (Aparecerá abaixo do cabeçalho)
+# 4. EXECUTAR
 pg.run()
