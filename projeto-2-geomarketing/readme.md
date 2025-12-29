@@ -1,4 +1,4 @@
-# 🗺️ Inteligência de Varejo: Geomarketing Dashboard
+# Inteligência de Varejo: Geomarketing Dashboard
 
 
 ## Sobre o Projeto
