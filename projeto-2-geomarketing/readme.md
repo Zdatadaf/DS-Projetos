@@ -27,8 +27,3 @@ A arquitetura de análise espacial desenvolvida neste projeto é agnóstica e po
 * **Visualização Geoespacial:** Plotly Express (Mapbox)
 * **Manipulação de Dados:** Pandas / NumPy
 
-## Como Rodar o Projeto
-
-1. Clone este repositório:
-```bash
-git clone [https://github.com/SEU-USUARIO/rmb-geomarketing.git](https://github.com/SEU-USUARIO/rmb-geomarketing.git)
