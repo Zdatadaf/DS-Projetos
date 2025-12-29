@@ -154,7 +154,7 @@ else:
 st.divider() # Uma linha visual para separar o App da documentação
 
 # 2. DOCUMENTAÇÃO (Vem no final)
-PATH_README = "projeto-1-churn/readme.md"
+PATH_README = "projeto-2-geomarketing/readme.md"
 
 def exibir_readme(caminho):
     try:
