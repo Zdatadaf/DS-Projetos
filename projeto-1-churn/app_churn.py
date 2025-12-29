@@ -11,7 +11,7 @@ import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 #-----------------------------------------------------
 # 1. Título do App
-st.title("📊 Predição de Churn")
+st.title("👥 Predição de Churn")
 exibir_readme("projeto-1-churn/readme.md") 
 st.divider() # Uma linha para separar a explicação do dashboard real
 #-----------------------------------------------------
